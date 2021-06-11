@@ -1,10 +1,1 @@
- El volumen de la unidad C no tiene etiqueta.
- El n£mero de serie del volumen es: C6D6-0636
-
- Directorio de C:\Users\user\Desktop\MyGitProject
-
-11/06/2021  12:08 a. m.    <DIR>          .
-11/06/2021  12:08 a. m.    <DIR>          ..
-11/06/2021  12:08 a. m.                 0 test1.txt
-               1 archivos              0 bytes
-               2 dirs  141,642,403,840 bytes libres
+change 1
